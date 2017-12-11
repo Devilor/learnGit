@@ -5,3 +5,6 @@
 <option value="id">身份证</option>
 
 我又新增了一条信息，就是6.
+aaaaa
+
+BBBBB
